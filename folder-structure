@@ -1,0 +1,9 @@
+linux-lvm-project/
+│
+├── README.md
+├── commands.sh
+├── screenshots/
+│   ├── lsblk.png
+│   ├── fdisk.png
+│   ├── lvm.png
+│   └── mount.png
